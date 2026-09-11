@@ -86,7 +86,8 @@ python -m src.rag_pipeline
 
 - **Lần chạy đầu tiên**: Hệ thống sẽ tự động quét tài liệu trong `data/`, thực hiện chunking, tính toán vector embedding và lưu vào `vectorstore/db_faiss/`.
 - **Các lần chạy tiếp theo**: Hệ thống sẽ tự động nạp cơ sở dữ liệu vector đã có sẵn, giúp khởi động gần như tức thì.
-
+- **List Chunk **: 
+<img src = "./img/chunkList.png"></img>
 ---
 
 ## 💡 So Sánh Các Chiến Lược Chunking Trong Dự Án
