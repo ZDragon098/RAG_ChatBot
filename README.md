@@ -1,7 +1,7 @@
 # RAG ChatBot - Vietnamese Document Q&A Assistant
 
 Hệ thống Hỏi - Đáp thông minh (Retrieval-Augmented Generation - RAG) tối ưu hóa cho tài liệu tiếng Việt (văn bản học thuật, nghiên cứu, pháp luật) sử dụng **LangChain**, mô hình nhúng **BKAI Foundation Bi-Encoder**, cơ sở dữ liệu vector **FAISS** và mô hình ngôn ngữ **Google Gemini**.
-
+<img src = "./img/Chatbot.png" ></img>
 ---
 
 ## Tính Năng Nổi Bật
